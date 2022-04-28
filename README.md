@@ -1,3 +1,4 @@
+support linux arm64
 # xteve, guide2go in one docker with cron
 
 docker runs in host mode \
